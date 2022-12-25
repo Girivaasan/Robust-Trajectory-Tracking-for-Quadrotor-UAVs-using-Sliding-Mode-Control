@@ -1,6 +1,7 @@
 # Robust-Trajectory-Tracking-for-Quadrotor-UAVs-using-Sliding-Mode-Control
 
-## Follow these commands
+## Setup
+**Follow these commands**
 ```
 mkdir -p ~/quad_control_ws/src
 cd ~/quad_control_ws/src
