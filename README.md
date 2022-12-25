@@ -35,4 +35,4 @@ https://user-images.githubusercontent.com/118299474/209479916-c20df44d-acac-4497
 
 
 
-**(Note: To generate the log.pkl file that will be used to produce the performance plot, update the path where the file should be created and saved in the 'controller.py')**
+**(Note: To generate the log.pkl file that will be used to produce the performance plot, update the path where the file should be created and saved in your PC, in the 'controller.py' file)**
